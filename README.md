@@ -1,4 +1,6 @@
-# digit-recogniser: deep learning neural network for digit recognition
+# digit-recogniser: a deep learning neural network for digit recognition built with `numpy`
+
+Version: v0.1.0
 
 # Overview
 
